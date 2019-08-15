@@ -40,7 +40,7 @@ public class Main {
         System.out.println("f2 change");
         System.out.println("f2 change3");
 
-        System.out.println("First step for feature 1");
+        System.out.println("First step for feature 3");
      
     }
 }
