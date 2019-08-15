@@ -36,6 +36,7 @@ public class Main {
         courses.get("SER315").set_points("rose", 23);
         
         System.out.println("BugFix working");
+        System.out.println("BugFix 2 working");
      
     }
 }
